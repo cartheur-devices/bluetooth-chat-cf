@@ -10,8 +10,8 @@ Need to groom this repo and get some _very_ old VB code into C#.
 
 The chat experience is thus in Visual Studio 2008
 
-![one](/BluetoothChat.jpg)
+![one](/images/BluetoothChat.jpg)
 
 And the apps themselves
 
-![two](/BT-AppChat.jpg)
+![two](/images/BT-AppChat.jpg)
