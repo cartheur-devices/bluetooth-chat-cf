@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+# SharpDevelop 2.2.1.2648
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BluetoothChatPPC", "BluetoothChatPPC.vbproj", "{6D424B0E-ACBF-4832-BB59-7C6D674F971B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D424B0E-ACBF-4832-BB59-7C6D674F971B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D424B0E-ACBF-4832-BB59-7C6D674F971B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D424B0E-ACBF-4832-BB59-7C6D674F971B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D424B0E-ACBF-4832-BB59-7C6D674F971B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
