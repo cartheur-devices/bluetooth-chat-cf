@@ -1,9 +1,9 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluetoothChatPPC", "BluetoothChatPPC.csproj", "{92643701-6203-40B4-91E7-57D35B6360FF}"
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluetoothChatPPC", "BluetoothChatPPC\BluetoothChatPPC.csproj", "{92643701-6203-40B4-91E7-57D35B6360FF}"
 EndProject
-Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "BluetoothChatInstaller", "..\BluetoothChatInstaller\BluetoothChatInstaller.vddproj", "{FEE730EE-BFDE-4450-92E1-E1061A10F4AA}"
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "BluetoothChatInstaller", "BluetoothChatInstaller\BluetoothChatInstaller.vddproj", "{49EFA8E4-542B-4092-AE4B-19DDD061FA98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,8 +17,10 @@ Global
 		{92643701-6203-40B4-91E7-57D35B6360FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92643701-6203-40B4-91E7-57D35B6360FF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{92643701-6203-40B4-91E7-57D35B6360FF}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{FEE730EE-BFDE-4450-92E1-E1061A10F4AA}.Debug|Any CPU.ActiveCfg = Debug
-		{FEE730EE-BFDE-4450-92E1-E1061A10F4AA}.Release|Any CPU.ActiveCfg = Release
+		{49EFA8E4-542B-4092-AE4B-19DDD061FA98}.Debug|Any CPU.ActiveCfg = Debug
+		{49EFA8E4-542B-4092-AE4B-19DDD061FA98}.Debug|Any CPU.Build.0 = Debug
+		{49EFA8E4-542B-4092-AE4B-19DDD061FA98}.Release|Any CPU.ActiveCfg = Release
+		{49EFA8E4-542B-4092-AE4B-19DDD061FA98}.Release|Any CPU.Build.0 = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
